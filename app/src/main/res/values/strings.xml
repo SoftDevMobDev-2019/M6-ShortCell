@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShortCell</string>
+    <string name="rule_range">Rules must be between 0 and 255</string>
+</resources>
